@@ -55,7 +55,7 @@ This is a simple attempt to use Python for face recognition and detection with s
 
 ## Contributing
 
-Feel free to dive in! [Open a issue](https://github.com/928606496/IndustrialBigData/issues/new) or submit PRs.
+Feel free to dive in! [Open a issue](https://github.com/928606496/SmartStoreSystem/issues/new) or submit PRs.
 
 ## Lisence
 [MIT](LICENSE) 
